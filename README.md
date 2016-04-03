@@ -1,5 +1,8 @@
 # Tech Manager Roadmap
 
+###技术训练系统
+
+![](https://github.com/zijingshanke/TechRoad/blob/master/Expert%20RoadMap/ExpertCN/训练系统－美军格斗训练学校.png)
 
 ####[基于Redmine的PM视图](http://www.jianshu.com/p/cd7a12fa09bb)
 ![](https://github.com/zijingshanke/TechRoad/blob/master/Redmine/IMG_1817.jpg)
